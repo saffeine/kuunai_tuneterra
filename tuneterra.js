@@ -4,7 +4,7 @@
 		artist: "Akalı",
 		location: "Seoul, Korea",
 		biography: "From her bedroom to the big stage, right back to her bedroom again. K-Pop sensation Akali Jhomen Tethi secured her status as a SoundCloud rapper, turned global K-Pop sensation, turned SoundCloud rapper again, turned - forget it, we'll let her music speak for itself.",
-		artistavatar: "./akali_test.png",
+		artistavatar: "./img/akali_test.png",
 		
 		albums: [],
 	},
@@ -65,22 +65,22 @@
 	}
 };
 
-tuneterra.addAlbum( "Neon Ninja ( Covers )", "./alb_null.png", 2014, [
+tuneterra.addAlbum( "Neon Ninja ( Covers )", "./img/alb_neonninja.png", 2014, [
 	{ title: "Without Me", artists: "Akali", url: "https://www.youtube.com/watch?v=5Jxv1W_rNbQ" },
 	{ title: "Heartbeat", artists: "Akali", url: "https://www.youtube.com/watch?v=B9Hg2-zbywg" },
 	{ title: "Homicide", artists: "Akali", url: "https://www.youtube.com/watch?v=DyPOa2jEl_Q" },
 	{ title: "Godzilla", artists: "Akali", url: "https://www.youtube.com/watch?v=kGT1Pkts-UY" }
 ] );
 
-tuneterra.addAlbum( "POP/STARS", "./alb_popstars.jpg", 2018, [
+tuneterra.addAlbum( "POP/STARS", "./img/alb_popstars.jpg", 2018, [
 	{ title: "POP/STARS", artists: "Ahri, Akali, Evelynn, Kai'Sa", url: "https://www.youtube.com/watch?v=UQBwlhAm6Yk" }
 ] );
 
-tuneterra.addAlbum( "GIANTS", "./alb_giants.jpg", 2019, [
+tuneterra.addAlbum( "GIANTS", "./img/alb_giants.jpg", 2019, [
 	{ title: "GIANTS", artists: "Akali, Ekko, Qiyana, Senna, Yasuo", url: "https://www.youtube.com/watch?v=jVdVp7fs21U" }
 ] );
 
-tuneterra.addAlbum( "ALL OUT", "./alb_allout.jpg", 2020, [
+tuneterra.addAlbum( "ALL OUT", "./img/alb_allout.jpg", 2020, [
 	{ title: "THE BADDEST", artists: "Ahri, Akali, Evelynn, Kai'Sa", url: "https://www.youtube.com/watch?v=Y8kMcf4kyIk" },
 	{ title: "MORE", artists: "Ahri, Akali, Evelynn, Kai'Sa, Seraphine", url: "https://www.youtube.com/watch?v=QTfK8bCHuvs" },
 	{ title: "VILLAIN", artists: "Evelynn", url: "https://www.youtube.com/watch?v=T4fPoRTFWsA" },
@@ -88,7 +88,7 @@ tuneterra.addAlbum( "ALL OUT", "./alb_allout.jpg", 2020, [
 	{ title: "I'LL SHOW YOU", artists: "Ahri", url: "https://www.youtube.com/watch?v=2KlHN15BCNg" }
 ] );
 
-tuneterra.addAlbum( "Going Rogue // F**K", "./alb_null.png", 2021, [
+tuneterra.addAlbum( "Going Rogue // F**K", "./img/alb_goingrogue.png", 2021, [
 	{ title: "problem.", artists: "Akali", url: "https://www.youtube.com/watch?v=r2_zpgckj84" },
 	{ title: "jesus on my neck.", artists: "Jinx", url: "https://www.youtube.com/watch?v=_PPs06cBMtI" },
 	{ title: "wishing well ( interlude ).", artists: "Akali, Jinx", url: "https://www.youtube.com/watch?v=hDg36Dga1F8" },
@@ -96,7 +96,7 @@ tuneterra.addAlbum( "Going Rogue // F**K", "./alb_null.png", 2021, [
 	{ title: "made in gold.", artists: "Akali", url: "https://www.youtube.com/watch?v=_AQxq3iCpAI" }
 ] );
 
-tuneterra.addAlbum( "Kinkou", "./alb_null.png", 2022, [
+tuneterra.addAlbum( "Kinkou", "./img/alb_kinkou.png", 2022, [
 	{ title: "stfd.", artists: "Akali", url: "https://www.youtube.com/watch?v=XyNHIsp_3k0" },
 	{ title: "kinko.", artists: "Akali", url: "https://www.youtube.com/watch?v=SNMry0BKaCI" },
 	{ title: "villain.", artists: "Akali", url: "https://www.youtube.com/watch?v=OHGcLL10cDc" },
@@ -107,20 +107,20 @@ tuneterra.addAlbum( "Kinkou", "./alb_null.png", 2022, [
 	{ title: "manners.", artists: "Akali", url: "https://www.youtube.com/watch?v=KgDC-nCH0uk" }
 ] );
 
-tuneterra.addAlbum( "Alignment", "./alb_null.png", 2022, [
+tuneterra.addAlbum( "Alignment", "./img/alb_alignment.png", 2022, [
 	{ title: "art gang money.", artists: "Akali, Kayn", url: "https://www.youtube.com/watch?v=xYk5tXaTJjM" },
 	{ title: "사이다", artists: "Akali", url: "https://www.youtube.com/watch?v=SiDfNppeZ-g" },
 	{ title: "crazy dog.", artists: "Akali, Kayn", url: "https://www.youtube.com/watch?v=gVx3kKbRkqc" }
 ] );
 
-tuneterra.addAlbum( "Death Mark", "./alb_null.png", 2022, [
+tuneterra.addAlbum( "Death Mark", "./img/alb_deathmark.png", 2022, [
 	{ title: "riot.", artists: "Akali, the shadøw ørder", url: "https://www.youtube.com/watch?v=H3vZmkV-m-U" },
 	{ title: "crazy.", artists: "Akali, the shadøw ørder", url: "https://www.youtube.com/watch?v=wMb_nskK1RY" },
 	{ title: "woopty woo woo.", artists: "Akali, the shadøw ørder", url: "https://www.youtube.com/watch?v=S6jPnmp1ygI&t=26s" },
 	{ title: "sorry that i'm not sorry.", artists: "Akali, the shadøw ørder", url: "https://www.youtube.com/watch?v=aUl3GkqxFls" }
 ] );
 
-tuneterra.addAlbum( "V", "./alb_null.png", 2023, [
+tuneterra.addAlbum( "V", "./img/alb_v.png", 2023, [
 	{ title: "killin' it.", artists: "Runic", url: "https://www.youtube.com/watch?v=xS-jtET_wxs" },
 	{ title: "live for the night.", artists: "Runic", url: "https://www.youtube.com/watch?v=BZpZzJnZ5to" },
 	{ title: "somewhere to run.", artists: "Runic", url: "https://www.youtube.com/watch?v=eZVoq2SZfu0" },
