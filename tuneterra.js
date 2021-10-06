@@ -65,7 +65,7 @@
 	}
 };
 
-tuneterra.addAlbum( "Neon Ninja ( Covers )", "./img/alb_neonninja.png", 2014, [
+tuneterra.addAlbum( "Neon Ninja ( Covers )", "./img/alb_neonninja.png", 2015, [
 	{ title: "Without Me", artists: "Akali", url: "https://www.youtube.com/watch?v=5Jxv1W_rNbQ" },
 	{ title: "Heartbeat", artists: "Akali", url: "https://www.youtube.com/watch?v=B9Hg2-zbywg" },
 	{ title: "Homicide", artists: "Akali", url: "https://www.youtube.com/watch?v=DyPOa2jEl_Q" },
