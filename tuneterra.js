@@ -111,27 +111,27 @@ tuneterra.addAlbum( "Alignment", "./img/alb_alignment.png", 2022, [
 ] );
 
 tuneterra.addAlbum( "Death Mark", "./img/alb_deathmark.png", 2022, [
-	{ title: "riot.", artists: "Akali, the shadøw ørder", url: "https://www.youtube.com/watch?v=H3vZmkV-m-U" },
-	{ title: "crazy.", artists: "Akali, the shadøw ørder", url: "https://www.youtube.com/watch?v=wMb_nskK1RY" },
-	{ title: "woopty woo woo.", artists: "Akali, the shadøw ørder", url: "https://www.youtube.com/watch?v=S6jPnmp1ygI&t=26s" },
-	{ title: "sorry that i'm not sorry.", artists: "Akali, the shadøw ørder", url: "https://www.youtube.com/watch?v=aUl3GkqxFls" }
+	{ title: "riot.", artists: "Akali, Kayn, Zed", url: "https://www.youtube.com/watch?v=H3vZmkV-m-U" },
+	{ title: "crazy.", artists: "Akali, Kayn, Zed", url: "https://www.youtube.com/watch?v=wMb_nskK1RY" },
+	{ title: "woopty woo woo.", artists: "Akali, Kayn, Zed", url: "https://www.youtube.com/watch?v=S6jPnmp1ygI&t=26s" },
+	{ title: "sorry that i'm not sorry.", artists: "Akali, Kayn, Zed", url: "https://www.youtube.com/watch?v=aUl3GkqxFls" }
 ] );
 
-tuneterra.addAlbum( "No More Boys", "./img/noboys.png", 2023, [
+tuneterra.addAlbum( "No Boys Allowed", "./img/alb_noboys.png", 2023, [
 	{ title: "hi, it's me.", artists: "Akali", url: "https://www.youtube.com/watch?v=tvJ_aQbVP8o" },
 	{ title: "maggots.", artists: "Akali", url: "https://www.youtube.com/watch?v=M3kBRMBHLI4" },
 	{ title: "manners.", artists: "Akali", url: "https://www.youtube.com/watch?v=KgDC-nCH0uk" }
 ] );
 
 tuneterra.addAlbum( "V", "./img/alb_v.png", 2023, [
-	{ title: "killin' it.", artists: "Runic", url: "https://www.youtube.com/watch?v=xS-jtET_wxs" },
-	{ title: "live for the night.", artists: "Runic", url: "https://www.youtube.com/watch?v=BZpZzJnZ5to" },
-	{ title: "somewhere to run.", artists: "Runic", url: "https://www.youtube.com/watch?v=eZVoq2SZfu0" },
-	{ title: "fire hive ( fuck on me ).", artists: "Runic", url: "https://www.youtube.com/watch?v=kXRcvkkXj3s" },
-	{ title: "bitch of the year.", artists: "Runic", url: "https://www.youtube.com/watch?v=U6eeOAY_b_I" },
-	{ title: "beggars.", artists: "Runic", url: "https://www.youtube.com/watch?v=8Ww-SJv-c0I" },
-	{ title: "surrender the throne.", artists: "Runic", url: "https://www.youtube.com/watch?v=ElNP2wn0e6Y" },
-	{ title: "new world ( live at pentakill ).", artists: "Runic", url: "https://www.youtube.com/watch?v=wuhP6uRY7u0&t=2s" },
+	{ title: "killin' it.", artists: "Akali, Riven", url: "https://www.youtube.com/watch?v=xS-jtET_wxs" },
+	{ title: "live for the night.", artists: "Akali, Riven", url: "https://www.youtube.com/watch?v=BZpZzJnZ5to" },
+	{ title: "somewhere to run.", artists: "Akali, Riven", url: "https://www.youtube.com/watch?v=eZVoq2SZfu0" },
+	{ title: "fire hive ( fuck on me ).", artists: "Akali, Riven", url: "https://www.youtube.com/watch?v=kXRcvkkXj3s" },
+	{ title: "bitch of the year.", artists: "Akali, Riven", url: "https://www.youtube.com/watch?v=U6eeOAY_b_I" },
+	{ title: "beggars.", artists: "Akali, Riven", url: "https://www.youtube.com/watch?v=8Ww-SJv-c0I" },
+	{ title: "surrender the throne.", artists: "Akali, Riven", url: "https://www.youtube.com/watch?v=ElNP2wn0e6Y" },
+	{ title: "new world ( live at pentakill ).", artists: "Akali, Riven", url: "https://www.youtube.com/watch?v=wuhP6uRY7u0&t=2s" },
 ] );
 
 

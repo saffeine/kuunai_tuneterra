@@ -79,6 +79,7 @@ body {
 	width: auto;
 	height: 6vw;
 	
+	box-shadow: #0C0 0px 0px 12px, #8F4 0px 0px 4px;
 	border-radius: 50%;
 	margin: 1vw;
 }
