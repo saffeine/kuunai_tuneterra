@@ -3,7 +3,7 @@
 	info: {
 		artist: "Akalı",
 		location: "Seoul, Korea",
-		biography: "From her bedroom to the big stage, right back to her bedroom again. K-Pop sensation Akali Jhomen Tethi secured her status as a SoundCloud rapper, turned global K-Pop sensation, turned SoundCloud rapper again, turned - forget it, we'll let her music speak for itself.",
+		biography: "From her bedroom to the big stage, right back to her bedroom again. Akali Jhomen Tethi secured her status as a SoundCloud rapper, turned global K-Pop sensation, turned SoundCloud rapper again, turned - forget it, we'll let her music speak for itself.",
 		artistavatar: "./img/akali_test.png",
 		
 		albums: [],
@@ -101,10 +101,7 @@ tuneterra.addAlbum( "Kinkou", "./img/alb_kinkou.png", 2022, [
 	{ title: "kinko.", artists: "Akali", url: "https://www.youtube.com/watch?v=SNMry0BKaCI" },
 	{ title: "villain.", artists: "Akali", url: "https://www.youtube.com/watch?v=OHGcLL10cDc" },
 	{ title: "not the same.", artists: "Akali", url: "https://www.youtube.com/watch?v=-6Ufsn3JZ30" },
-	{ title: "you made me.", artists: "Akali", url: "https://www.youtube.com/watch?v=fjCPAbxRxLs" },
-	{ title: "hi, it's me.", artists: "Akali", url: "https://www.youtube.com/watch?v=tvJ_aQbVP8o" },
-	{ title: "maggots.", artists: "Akali", url: "https://www.youtube.com/watch?v=M3kBRMBHLI4" },
-	{ title: "manners.", artists: "Akali", url: "https://www.youtube.com/watch?v=KgDC-nCH0uk" }
+	{ title: "you made me.", artists: "Akali", url: "https://www.youtube.com/watch?v=fjCPAbxRxLs" }
 ] );
 
 tuneterra.addAlbum( "Alignment", "./img/alb_alignment.png", 2022, [
@@ -118,6 +115,12 @@ tuneterra.addAlbum( "Death Mark", "./img/alb_deathmark.png", 2022, [
 	{ title: "crazy.", artists: "Akali, the shadøw ørder", url: "https://www.youtube.com/watch?v=wMb_nskK1RY" },
 	{ title: "woopty woo woo.", artists: "Akali, the shadøw ørder", url: "https://www.youtube.com/watch?v=S6jPnmp1ygI&t=26s" },
 	{ title: "sorry that i'm not sorry.", artists: "Akali, the shadøw ørder", url: "https://www.youtube.com/watch?v=aUl3GkqxFls" }
+] );
+
+tuneterra.addAlbum( "Always Crazy", "./img/alb_alwayscrazy.png", 2023, [
+	{ title: "hi, it's me.", artists: "Akali", url: "https://www.youtube.com/watch?v=tvJ_aQbVP8o" },
+	{ title: "maggots.", artists: "Akali", url: "https://www.youtube.com/watch?v=M3kBRMBHLI4" },
+	{ title: "manners.", artists: "Akali", url: "https://www.youtube.com/watch?v=KgDC-nCH0uk" }
 ] );
 
 tuneterra.addAlbum( "V", "./img/alb_v.png", 2023, [
