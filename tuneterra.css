@@ -147,7 +147,7 @@ body {
 }
 
 #container #discography .album:hover {
-	background-color: #FFF1;
+	background-color: #AAA1;
 }
 
 #container #discography .album .header {
@@ -203,7 +203,7 @@ body {
 
 #container #discography .album .tracklist .song:hover {
 	transition-duration: 0.2s;
-	background-color: #FFF2;
+	background-color: #FFF1;
 }
 
 #container #discography .album .tracklist .number {
