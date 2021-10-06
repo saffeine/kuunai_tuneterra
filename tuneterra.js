@@ -117,7 +117,7 @@ tuneterra.addAlbum( "Death Mark", "./img/alb_deathmark.png", 2022, [
 	{ title: "sorry that i'm not sorry.", artists: "Akali, the shadøw ørder", url: "https://www.youtube.com/watch?v=aUl3GkqxFls" }
 ] );
 
-tuneterra.addAlbum( "Always Crazy", "./img/alb_alwayscrazy.png", 2023, [
+tuneterra.addAlbum( "No More Boys", "./img/noboys.png", 2023, [
 	{ title: "hi, it's me.", artists: "Akali", url: "https://www.youtube.com/watch?v=tvJ_aQbVP8o" },
 	{ title: "maggots.", artists: "Akali", url: "https://www.youtube.com/watch?v=M3kBRMBHLI4" },
 	{ title: "manners.", artists: "Akali", url: "https://www.youtube.com/watch?v=KgDC-nCH0uk" }
