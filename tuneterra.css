@@ -96,19 +96,19 @@ body {
 }
 
 #container #header .artistinfo .name {
-	margin: 8px;
-	font-size: 48px;
+	margin: 16px 8px;
+	font-size: 40px;
 }
 
 #container #header .artistinfo .location {
-	margin: -14px 8px;
-	font-size: 10px;
+	margin: -20px 8px;
+	font-size: 12px;
 	
 	color: #AAA;
 }
 
 #container #header .artistinfo .bio {
-	margin: 30px 8px;
+	margin: 36px 8px;
 	width: 80%;
 	height: 48px;
 	font-size: 14px;
@@ -134,13 +134,19 @@ body {
 
 #container #discography .album {
 	display: inline-block;
-	margin: 8px 32px 64px 32px;
+	margin: 8px 1% 32px 1%;
+	padding: 8px;
 	
-	width: 100%;
+	width: 96%;
 	
 	color: #EEE;
 	
-	border: solid #
+	border-radius: 8px;
+	transition-duration: 0.1s;
+}
+
+#container #discography .album:hover {
+	background-color: #FFF1;
 }
 
 #container #discography .album .header {
@@ -151,32 +157,32 @@ body {
 	display: inline-block;
 	position: absolute;
 	
-	width: 80px;
-	height: 80px;
+	width: 64px;
+	height: 64px;
 }
 
 #container #discography .album .header .title {
 	display: inline-block;
 	position: absolute;
 	
-	margin: 4px 100px;
+	margin: 12px 100px;
 	
-	font-size: 20px;
+	font-size: 32px;
 }
 
 #container #discography .album .header .info {
 	display: inline-block;
 	position: absolute;
 	
-	margin: 28px 100px;
+	margin: 48px 100px;
 	
-	font-size: 12px;
+	font-size: 16px;
 	
 	color: #FFF8;
 }
 
 #container #discography .album .tracklist {
-	margin-top: -52px;
+	margin-top: -16px;
 	margin-left: 100px;
 	border-left: solid #FFF3 1px;
 	font-size: 12px;
@@ -184,18 +190,19 @@ body {
 
 #container #discography .album .tracklist .song {
 	display: inline-block;
-	margin: 2px 32px;
+	margin: 2px 32px 2px 8px;
 	padding: 4px 12px;
 	border-radius: 4px;
 	
 	width: 90%;
 	
+	font-size: 14px;
 	color: #EEE;
 }
 
 #container #discography .album .tracklist .song:hover {
 	transition-duration: 0.2s;
-	background-color: #FFF1;
+	background-color: #FFF2;
 }
 
 #container #discography .album .tracklist .number {
